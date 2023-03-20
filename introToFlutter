@@ -1,0 +1,14 @@
+-> UI toolkit from GOOGLE to build natively compiled apps for mobile, web and desktop. 
+-> Build iOS and Android apps using a single codebase.
+-> Cross platform - Mac / Windows / Linux.
+-> Extremley fast.
+-> Modern and reactive framework.
+-> Beautiful and fluid user interfaces.
+-> Flutter needs lesser testing. Because of its single code base, it is sufficient if we write automated tests once for both the platforms.
+-> With Flutter, developers has full control over the widgets and its layout.
+-> Flutter uses an OOPS programming language called DART(optimized for UI).
+-> Everything in flutter is a WIDGET.
+-> Flutter uses material design.
+WIDGETS:
+1) STATELESS WIDGETS : State can't be changed during the runtime of the app.
+2) STATEFUL WIDGETS : Mutable state that can be redrawn on the screen multiple times.
