@@ -1,5 +1,6 @@
 -> UI toolkit from GOOGLE to build natively compiled apps for mobile, web and desktop. 
 -> Build iOS and Android apps using a single codebase.
+-> Flutter uses DART as a programming language to make apps.
 -> Cross platform - Mac / Windows / Linux.
 -> Extremley fast.
 -> Modern and reactive framework.
@@ -12,3 +13,14 @@
 WIDGETS:
 1) STATELESS WIDGETS : State can't be changed during the runtime of the app.
 2) STATEFUL WIDGETS : Mutable state that can be redrawn on the screen multiple times.
+ 
+ -> WIDGETS 
+ Everything inside a flutter app is essentially a widget.
+ ROOT WIDGET surrounds everything in entire app.
+ APP BAR WIDGET at top of app.
+ TEXT WIDGET contains title of the app.
+ CONTAINER WIDGET shows the things inside app, it also contains TEXT WIDGET.
+ 
+ WIDGET TREE describes the structure of widgets inside your app. Eg. Text widget,Button widget,Row widget,Column Widget,Image widget.
+ All widgets in flutter are classes. Each widget has its class which defines its behaviour and how it looks on screen. 
+ 
