@@ -24,3 +24,5 @@ WIDGETS:
  WIDGET TREE describes the structure of widgets inside your app. Eg. Text widget,Button widget,Row widget,Column Widget,Image widget.
  All widgets in flutter are classes. Each widget has its class which defines its behaviour and how it looks on screen. 
  
+CONTAINER: It is a widget that combines common painting, positioning, and sizing of the child widgets.
+
